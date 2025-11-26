@@ -4,7 +4,7 @@
 
 This is a responsive rebuild of the "Who This Is For" and "Portfolio Management" sections using pure HTML and CSS.
 
-### 🔗 [Click Here for Live Demo](YOUR_NETLIFY_OR_GITHUB_PAGES_LINK_HERE)
+### 🔗 [Click Here for Live Demo](https://shruteesalpe.github.io/Moneyvesta-Assignment/)
 
 ## Project Preview
 ![Project Demo Animation](Moneyvesta%20Website%20Demo.gif)
