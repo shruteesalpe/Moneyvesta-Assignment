@@ -1,6 +1,6 @@
 # Moneyvesta-Assignment
 
-## Moneyvesta Page Rebuild
+## Moneyvesta Page Rebuild Using only HTML & CSS
 
 This is a responsive rebuild of the "Who This Is For" and "Portfolio Management" sections using pure HTML and CSS.
 
